@@ -104,7 +104,7 @@ const Home = () => {
     showNotification('Заказ оформлен! Переходим в WhatsApp...');
 
     setTimeout(() => {
-      window.location.href = `https://wa.me/996709188440?text=${orderText}`;
+      window.location.href = `https://wa.me/996550890405?text=${orderText}`;
     }, 1500);
   };
 
